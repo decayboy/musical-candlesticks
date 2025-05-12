@@ -55,10 +55,10 @@ Can expand this easily:
 
 <b>Where can it be improved:</b>
 
-Try different scales (e.g., Dorian, Aeolian) → modify the ```SCALE``` list.
+- Try different scales (e.g., Dorian, Aeolian) → modify the ```SCALE``` list.
 
-Add multiple instruments for multi-asset sonification.
+- Add multiple instruments for multi-asset sonification.
 
-Increase ```trend_window``` to smooth the chord decision logic.
+- Increase ```trend_window``` to smooth the chord decision logic.
 
-Output live versions by replacing ```yfinance``` with live-feed APIs (Binance, Alpaca, IBKR).
+- Output live versions by replacing ```yfinance``` with live-feed APIs (Binance, Alpaca, IBKR).
