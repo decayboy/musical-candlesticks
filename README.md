@@ -1,5 +1,5 @@
-# Candlestick-Chart-MIDI (Version 2)
-Python: Candlestick Chart → MIDI (Stock Market Sonification)
+# Stock Market Sonification-MIDI (Ver. 2)
+Python: Candlestick Chart → MIDI
 
 1. Download historical price data (I’ll use ```yfinance``` for stocks/ETFs for simplicity).
 
